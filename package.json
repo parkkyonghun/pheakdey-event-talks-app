@@ -1,0 +1,12 @@
+{
+  "name": "event-website-generator",
+  "version": "1.0.0",
+  "description": "Generates a static website for a 1-day technical talk event.",
+  "main": "generate-site.js",
+  "scripts": {
+    "build": "node generate-site.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
